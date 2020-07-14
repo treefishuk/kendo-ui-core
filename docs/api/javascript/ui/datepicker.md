@@ -611,7 +611,7 @@ An object, which holds the options of the widget.
     var datepicker = $("#datepicker").data("kendoDatePicker");
 
     var options = datepicker.options;
-    <script>
+    </script>
 
 ## Methods
 
